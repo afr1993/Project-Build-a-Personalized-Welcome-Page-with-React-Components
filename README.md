@@ -68,3 +68,39 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Welcome Page React App
+
+## 📋 Project Description
+This React application displays a personalized welcome page with user-specific greetings, time-based messages, and a theme toggle feature. It is built to practice core React concepts such as components, props, state management, and conditional rendering.
+
+## 🚀 Features
+- **Personalized Greeting**: Displays a message using the user's name and location.
+- **Time-Based Message**: Shows a greeting based on the current time of day (morning, afternoon, evening, night).
+- **Theme Toggle**: Allows users to switch between light mode and dark mode using state management.
+- **Reusable Button Component**: Customizable button used across the app.
+- **Responsive Design**: Mobile-friendly layout using flexible styling.
+
+## 🛠 How to Run the Project
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/welcome-page.git
+cd welcome-page
+2. Install dependencies
+npm install
+
+3. Start the development server
+npm start
+
+🧰 Technologies Used
+React
+
+JSX
+
+useState Hook
+
+Conditional Rendering
+
+CSS (Global & Inline)
